@@ -12,5 +12,7 @@ superuser for login to admin panel :
 user -> mohammad 
 password -> 123
 
+Writer -> Mohammadreza-hoseini
+
 
 
